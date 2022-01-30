@@ -1,0 +1,248 @@
+.first{
+background: url(background.jpg) center/cover;
+background-repeat:no-repeat;
+height: 100vh;
+
+background-position:center;
+}
+
+.navbar{
+    background-color: rgba(3, 0, 0, 0.219);
+}
+#header{
+    align-items: center;
+    flex-direction: column;
+    margin-top: 4rem;
+}
+.navbar-nav{
+    color: white;
+font-weight:400;
+font-size: x-large;
+}
+.header{
+    font-family: 'Comforter', cursive;
+    font-size: 92px;
+}
+/*mainrow*/
+#mainsec1{
+    text-align: center;
+}
+.firstcols{
+    width: 34%;
+}
+.borderhead{
+    width: 66%;
+}
+.border{
+    background-color: rgb(228, 228, 228);
+   height: 21px;
+    margin-bottom: 1rem;
+    border-radius:5px 5px 5px 5px;       
+    border: solid 1px;  
+    
+}
+.margintop{
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.yellow1{
+    height: 19px;
+        width: 95%;
+        background-color: gold;
+}
+.yellow2{
+    height: 19px;
+    width: 75%;
+    background-color: gold;
+}
+.yellow3{
+    height: 19px;
+    width: 55%;
+    background-color:gold;
+}
+.ms{
+    margin-left: 95%;
+}
+#width1{
+    background-color: black;
+    color: white;
+    position: absolute;
+    left: 88%;
+    top: 124%; 
+    font-size: small;
+    padding: 5px;
+}
+.downarrow1{
+    font-size: 25px;
+    position: absolute;
+    left: 89%;
+    top: 126%;
+    margin: 0%;
+}
+
+#width2{
+    position: absolute;
+    left: 77%;
+    top: 136%;
+background-color: black;
+color: white;
+font-size: small;
+    padding: 5px;
+}
+
+.downarrow2{
+    font-size: 25px;
+    position: absolute;
+    left: 78%;
+    top: 138%;
+    margin: 0%;
+}
+#width3{
+    position: absolute;
+    left: 67%;
+    top: 148%;
+background-color: black;
+color: white;
+font-size: small;
+    padding: 5px;
+}
+
+.downarrow3{
+    font-size: 25px;
+    position: absolute;
+    left: 68%;
+    top: 150%;
+    margin: 0%;
+}
+/*row2*/
+#align{
+    text-align: center;
+    margin-top: 20px;
+}
+.class{
+    padding: 5px;
+}
+.row1{
+    justify-content: center;
+}
+
+.input{
+    border: 0px;
+    margin-right: 20px;
+    padding: 5px;
+    font-size: smaller;
+    background-color: rgb(236, 217, 106);
+}
+.btn{
+    font-size: smaller;
+}
+#imgbor{
+    border: solid 5px gold;
+}
+
+#cards{
+    border: 0px;
+    text-align: center;
+    justify-content: center;
+     align-items: center;
+}
+#buttons{
+    border: solid gold;
+}
+#row4cols{
+  justify-content: center;
+}
+#links{
+    margin: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#backgrond{
+    text-align: left;
+    background-image:url(developer.jpg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+#background1{
+    text-align: left;
+    background-image:url(developer_1.jpeg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+#background2{   
+    text-align: left;
+    background-image:url(nature.jpg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+#background3{   
+    text-align: left;
+    background-image:url(further.jpeg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+#background4{   
+    text-align: left;
+    background-image:url(link.jpg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+#background5{   
+    text-align: left;
+    background-image:url(baby_boy.jpg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+#background6{   
+    text-align: left;
+    background-image:url(photography.jpg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+#background7{   
+    text-align: left;
+    background-image:url(focus_image.jpg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+#background8{   
+    text-align: left;
+    background-image:url(nature.jpg);
+    background-size: cover;
+    height:42vh;
+    width:230px;
+    padding: 0%;
+}
+
+
+.lightblack{
+    background-color: rgba(0, 0, 0, 0.253);
+    color: white;
+    margin-top: 162px;
+}
+/*footer*/
+#footer{
+    background-image: url(london_pic.jpg);
+    
+    background-size: cover;
+}
+#btn{
+    color: white;
+    font-size: medium;
+}
