@@ -1,9 +1,27 @@
+@media only screen and (min-width:992px){
+
+    #mainsec1{
+        font-size: larger
+    }
+    .firstcols{
+        width: 34%;
+        font-size: medium;
+        font-weight: 400;
+    }
+    .borderhead{
+        width: 66%;
+    }
+    
+    }
+        
 .first{
 background: url(background.jpg) center/cover;
 background-repeat:no-repeat;
-height: 100vh;
-
+height: auto;
 background-position:center;
+}
+.firstcols{
+    
 }
 
 .navbar{
@@ -23,16 +41,15 @@ font-size: x-large;
     font-family: 'Comforter', cursive;
     font-size: 92px;
 }
+#marginbottom{
+    margin-bottom: 80px;
+    
+}
 /*mainrow*/
 #mainsec1{
     text-align: center;
 }
-.firstcols{
-    width: 34%;
-}
-.borderhead{
-    width: 66%;
-}
+
 .border{
     background-color: rgb(228, 228, 228);
    height: 21px;
@@ -246,3 +263,5 @@ font-size: small;
     color: white;
     font-size: medium;
 }
+
+
