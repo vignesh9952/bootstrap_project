@@ -13,6 +13,12 @@
     }
     
     }
+
+    @media only screen and (min-width:320px)and(max-width:576px){
+    #mainsec1{
+        max-width: 0%;
+    }
+    }
         
 .first{
 background: url(background.jpg) center/cover;
@@ -20,9 +26,7 @@ background-repeat:no-repeat;
 height: auto;
 background-position:center;
 }
-.firstcols{
-    
-}
+
 
 .navbar{
     background-color: rgba(3, 0, 0, 0.219);
@@ -42,7 +46,7 @@ font-size: x-large;
     font-size: 92px;
 }
 #marginbottom{
-    margin-bottom: 80px;
+    padding-bottom:  80px;
     
 }
 /*mainrow*/
