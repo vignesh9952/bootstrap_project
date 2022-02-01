@@ -11,6 +11,9 @@
     .borderhead{
         width: 66%;
     }
+    #row4cols{
+        display: flex;
+    }
     
     }
 
@@ -84,7 +87,7 @@ font-size: x-large;
 .ms{
     margin-left: 95%;
 }
-#width1{
+/*#width1{
     background-color: black;
     color: white;
     position: absolute;
@@ -134,7 +137,7 @@ font-size: small;
     left: 68%;
     top: 150%;
     margin: 0%;
-}
+}*/
 /*row2*/
 #align{
     text-align: center;
@@ -182,15 +185,14 @@ font-size: small;
     text-align: left;
     background-image:url(developer.jpg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
+
 #background1{
     text-align: left;
     background-image:url(developer_1.jpeg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
@@ -198,7 +200,6 @@ font-size: small;
     text-align: left;
     background-image:url(nature.jpg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
@@ -206,7 +207,6 @@ font-size: small;
     text-align: left;
     background-image:url(further.jpeg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
@@ -214,7 +214,6 @@ font-size: small;
     text-align: left;
     background-image:url(link.jpg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
@@ -222,7 +221,6 @@ font-size: small;
     text-align: left;
     background-image:url(baby_boy.jpg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
@@ -230,23 +228,22 @@ font-size: small;
     text-align: left;
     background-image:url(photography.jpg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
+
 #background7{   
     text-align: left;
     background-image:url(focus_image.jpg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
+
 #background8{   
     text-align: left;
     background-image:url(nature.jpg);
     background-size: cover;
-    height:42vh;
     width:230px;
     padding: 0%;
 }
@@ -255,8 +252,9 @@ font-size: small;
 .lightblack{
     background-color: rgba(0, 0, 0, 0.253);
     color: white;
-    margin-top: 162px;
+    padding-top: 165px;
 }
+
 /*footer*/
 #footer{
     background-image: url(london_pic.jpg);
