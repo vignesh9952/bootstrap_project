@@ -3,7 +3,7 @@
     #mainsec1{
         font-size: larger
     }
-    .firstcols{
+   /* .firstcols{
         width: 34%;
         font-size: medium;
         font-weight: 400;
@@ -13,14 +13,8 @@
     }
     #row4cols{
         display: flex;
-    }
+    }*/
     
-    }
-
-    @media only screen and (min-width:320px)and(max-width:576px){
-    #mainsec1{
-        max-width: 0%;
-    }
     }
         
 .first{
@@ -185,74 +179,83 @@ font-size: small;
     text-align: left;
     background-image:url(developer.jpg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 
 #background1{
     text-align: left;
     background-image:url(developer_1.jpeg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 #background2{   
     text-align: left;
     background-image:url(nature.jpg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 #background3{   
     text-align: left;
     background-image:url(further.jpeg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 #background4{   
     text-align: left;
     background-image:url(link.jpg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 #background5{   
     text-align: left;
     background-image:url(baby_boy.jpg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 #background6{   
     text-align: left;
     background-image:url(photography.jpg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 
 #background7{   
     text-align: left;
     background-image:url(focus_image.jpg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 
 #background8{   
     text-align: left;
     background-image:url(nature.jpg);
     background-size: cover;
-    width:230px;
-    padding: 0%;
+    width:100%;
+    padding-top: 20%;
+    margin-bottom: 20px;
 }
 
 
 .lightblack{
     background-color: rgba(0, 0, 0, 0.253);
     color: white;
-    padding-top: 165px;
+    margin-top: 162px;
 }
 
 /*footer*/
